@@ -2,16 +2,17 @@
 
 🎓 Computer Science Graduate
 
-<div style="display: flex; align-items: center;">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXM3OGFoN2R5OW9uNjJoYm5zYnQ4dzllNHU1ZXJ5cmtxdThhb3d4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
-  <p style="margin-left: 15px;">
-    AI & Machine Learning Enthusiast with hands-on experience in AI/ML, Deep Learning, NLP, and Computer Vision through internships and projects.  
-    I thrive on building innovative AI solutions that drive real-world impact.
-  </p>
-</div>
-
-
-
+<table>
+  <tr>
+    <td valign="top" width="220">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
+    </td>
+    <td valign="top" style="border: none;">
+      <b>AI & Machine Learning Enthusiast</b> with hands-on experience in AI/ML, Deep Learning, NLP, and Computer Vision through internships and projects.  
+      I thrive on building innovative AI solutions that drive real-world impact.
+    </td>
+  </tr>
+</table>
 
 **I’m Fascinated By** Solving complex problems with AI, and building cutting-edge solutions in NLP, Computer Vision, and Deep Learning.
 
