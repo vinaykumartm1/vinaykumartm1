@@ -16,11 +16,10 @@ What excites me? Solving complex problems with AI, and building cutting-edge sol
 
 **Beyond Work:** I am passionate about continuous learning and sharing knowledge with the AI/ML community. Let’s connect and discuss AI/ML, and everything in between!
 
-![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinaykumartm1&show_icons=true&theme=radical)
-
-📫 Reach me at: [LinkedIn]([https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/vinaykumartm1/) | [Email](mailto:vinaytm18@email.com)  
-
-
-
+### 🛠️ Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 📫 Reach out to me at vinaytm18@gmail.com
