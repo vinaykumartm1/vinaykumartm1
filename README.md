@@ -1,7 +1,7 @@
 # Hi there, I'm Vinay 👋
 🎓 Computer Science Graduate
 
-AI & Machine Learning Enthusiast with hands-on experience in AI/ML, Deep Learning, NLP, and Computer Vision through internships and Projects.
+AI & Machine Learning Enthusiast with hands-on experience in AI/ML, Deep Learning, NLP, and Computer Vision through Internships and Projects.
 I thrive on building innovative AI solutions that drive real-world impact.
 
 What excites me? Solving complex problems with AI, and building cutting-edge solutions in NLP, Computer Vision, and Deep Learning.
