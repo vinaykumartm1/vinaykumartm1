@@ -18,4 +18,5 @@ What excites me? Solving complex problems with AI, and building cutting-edge sol
 
 📫 Reach out to me at vinaytm18@gmail.com
 
-![Profile Views](https://komarev.com/ghpvc/?username=vinaykumartm1&color=blue)
+<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="400"/>
+
