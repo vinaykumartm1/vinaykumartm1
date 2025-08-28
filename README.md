@@ -18,5 +18,6 @@ What excites me? Solving complex problems with AI, and building cutting-edge sol
 
 📫 Reach out to me at vinaytm18@gmail.com
 
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="400"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3NydmVhZ2l0Z2I1cWFyY2V1ZjFzYThhYXY5em1tM25kMnpxeTBsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eNAsjO55tPbgaor7ma/giphy.gif" width="500"/>
+
 
