@@ -1,4 +1,4 @@
-# Hi there, I'm Vinay! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+# Hi there, I'm Vinay <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 
 <table border="0"> 
   <tr> 
