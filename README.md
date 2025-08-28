@@ -18,7 +18,7 @@ What excites me? Solving complex problems with AI, and building cutting-edge sol
 
 ![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinaykumartm1&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykumartm1&layout=compact&theme=radical)
+📫 Reach me at: [LinkedIn]([https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/vinaykumartm1/) | [Email](mailto:vinaytm18@email.com)  
 
 
 
