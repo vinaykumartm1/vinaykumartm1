@@ -15,3 +15,5 @@ What excites me? Solving complex problems with AI, and building cutting-edge sol
 - **Domain Knowledge:** AI/ML | Deep Learning | Natural Laguage Processing | Computer Vision | Transformers | Transfer Learning | Data Analytics | EDA
 
 **Beyond Work:** I am passionate about continuous learning and sharing knowledge with the AI/ML community. Let’s connect and discuss AI, ML, and everything in between!
+
+📫 Reach out to me at vinaytm18@gmail.com
