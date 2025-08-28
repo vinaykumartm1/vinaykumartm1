@@ -3,7 +3,7 @@
 <table border="0"> 
   <tr> 
     <td style="border: none;"> 
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXM3OGFoN2R5OW9uNjJoYm5zYnQ4dzllNHU1ZXJ5cmtxdThhb3d4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXM3OGFoN2R5OW9uNjJoYm5zYnQ4dzllNHU1ZXJ5cmtxdThhb3d4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
     </td> 
     <td style="border: none; vertical-align: middle; padding-left: 15px;"> 
         🎓 Computer Science Graduate.<br> 
