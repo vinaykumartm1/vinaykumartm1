@@ -19,10 +19,12 @@ I thrive on building innovative AI solutions that drive real-world impact.
 
 📫 Reach out to me at vinaytm18@gmail.com
 
+
 <!-- centered -->
 <div align="center">
-  <img alt="Futuristic neural network" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="420"/>
+  <img alt="Neural connections" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="420"/>
 </div>
+
 
 
 
