@@ -1,4 +1,4 @@
-# Hi there, I'm Vinay 👋
+# Hi there, I'm Vinay!👋
 🎓 Computer Science Graduate
 
 AI & Machine Learning Enthusiast with hands-on experience in AI/ML, Deep Learning, NLP, and Computer Vision through Internships and Projects.
@@ -6,7 +6,7 @@ I thrive on building innovative AI solutions that drive real-world impact.
 
 What excites me? Solving complex problems with AI, and building cutting-edge solutions in NLP, Computer Vision, and Deep Learning.
 
-## Tools & Technologies I Work With:
+## 🛠️ Tools & Technologies I Work With:
 
 - **Languages:** Python | SQL
 - **Frameworks:** TensorFlow | PyTorch | Keras | Scikit-Learn
@@ -14,6 +14,6 @@ What excites me? Solving complex problems with AI, and building cutting-edge sol
 - **Tools:** MySQL | Power BI
 - **Domain Knowledge:** AI/ML | Deep Learning | Natural Laguage Processing | Computer Vision | Transformers | Transfer Learning | Data Analytics | EDA
 
-**Beyond Work:** I am passionate about continuous learning and sharing knowledge with the AI/ML community. Let’s connect and discuss AI, ML, and everything in between!
+**Beyond Work:** I am passionate about continuous learning and sharing knowledge with the AI/ML community. Let’s connect and discuss AI/ML, and everything in between!
 
 📫 Reach out to me at vinaytm18@gmail.com
