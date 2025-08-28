@@ -1,6 +1,9 @@
 # Hi there, I'm Vinay! 👋  
 
 🎓 Computer Science Graduate  
+<div align="left">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXM3OGFoN2R5OW9uNjJoYm5zYnQ4dzllNHU1ZXJ5cmtxdThhb3d4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="150"/>
+</div>
 
 AI & Machine Learning Enthusiast with hands-on experience in AI/ML, Deep Learning, NLP, and Computer Vision through internships and Projects. 
 I thrive on building innovative AI solutions that drive real-world impact.
@@ -20,10 +23,7 @@ I thrive on building innovative AI solutions that drive real-world impact.
 📫 Reach out to me at vinaytm18@gmail.com
 
 
-<!-- centered -->
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXM3OGFoN2R5OW9uNjJoYm5zYnQ4dzllNHU1ZXJ5cmtxdThhb3d4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
-</div>
+
 
 
 
