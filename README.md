@@ -9,10 +9,11 @@
         🎓 Computer Science Graduate.<br> 
         💡 Interested in AI & Machine Learning.<br> 
         🌱 Currently building AI solutions. <br> 
-        📫 Reach out to me at vinaytm18@gmail.com
+        📫 Reach out to me at <a href="mailto:vinaytm18@gmail.com">vinaytm18@gmail.com</a>
       </td>
   </tr> 
 </table>
+
 
 
 **✨ I’m Fascinated By:** Solving complex problems with AI, and building cutting-edge solutions in NLP, Computer Vision, and Deep Learning.
