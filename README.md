@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Vinay 👋
+🎓 Recent Computer Science Graduate
 
-<!--
-**vinaykumartm1/vinaykumartm1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Machine Learning Enthusiast with hands-on experience in AI/ML, Deep Learning, NLP, and Computer Vision through internships and Projects.
+I thrive on building innovative AI solutions that drive real-world impact.
 
-Here are some ideas to get you started:
+What excites me? Solving complex problems with AI, optimizing ML models, and building cutting-edge solutions in NLP, Computer Vision, and Deep Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools & Technologies I Work With:
+
+- **Languages:** Python | SQL
+- **Frameworks:** TensorFlow | PyTorch | Keras | Scikit-Learn
+- **Libraries:** OpenCV | NLTK | Pandas | Numpy | Matplotlib | Seaborn
+- **Tools:** MySQL | Power BI
+- **Domain Knowledge:** Deep Learning | Natural Laguage Processing | Computer Vision | Transformers | Transfer Learning | Data Analytics | EDA
+
+**Beyond Work:** I am passionate about continuous learning and sharing knowledge with the AI/ML community. Let’s connect and discuss AI, ML, and everything in between!
